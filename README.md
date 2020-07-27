@@ -3,7 +3,7 @@
 My name is Paul Coroneos. I am a front end developer with a passion for learning and solving difficult technical challenges.
 
 ### 🔭 I’m currently working on 
-  -My [personal blog/portfolio](https://www.pcoroneos.com)
+  - My [personal blog/portfolio](https://www.pcoroneos.com)
 ### 🌱 I’m currently learning
   - Machine Learning with [CX50x Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) 
   - Writing GraphQL Backend
