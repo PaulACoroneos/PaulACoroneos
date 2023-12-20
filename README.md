@@ -9,7 +9,7 @@ My name is Paul Coroneos. I am a front end developer with a passion for learning
   - Data Structures and Algorithms
   - Side projects I am passionate about
 ### 📫 How to reach me
-  - [Twitter](https://www.twitter.com/pacman326)
+  - [Threads](https://www.threads.net/@paulcoroneos)
   - [E-mail](mailto:paul.coroneos@icloud.com)
 ### 😄 Pronouns
   - He/him
