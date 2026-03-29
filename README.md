@@ -1,17 +1,13 @@
-## Hello There!
+## Hey, I'm Paul Coroneos 👋
 
-My name is Paul Coroneos. I am a front end developer with a passion for learning and solving difficult technical challenges. I am growing into becoming a full stack developer.
+Principal Platform Architect at Hilton, based in the Dallas area. I work across the full stack — TypeScript, Python, AWS — with a current focus on agentic AI systems and platform engineering. I helped take the Hilton AI Planner from an internal innovation challenge to production, and I'm actively shaping how our team builds with LLMs at scale.
 
-### 🔭 I’m currently working on 
-  - Growing my [personal blog/portfolio](https://www.pcoroneos.com)
-### 🌱 I’m currently learning
-  - Go 
-  - Data Structures and Algorithms
-  - Side projects I am passionate about
-### 📫 How to reach me
-  - [Bsky](https://bsky.app/profile/pacman326.bsky.social)
-  - [E-mail](mailto:paul.coroneos@icloud.com)
-### 😄 Pronouns
-  - He/him
-### ⚡ Fun fact
-  - Before doing development full time I was a test engineer in the semiconductor industry for 6 years.
+My background runs from semiconductor test engineering to front-end dev to platform architecture. I think of myself as a glue person: I like owning hard problems end-to-end and making the people around me better at solving them.
+
+---
+
+### 🔭 What I'm working on
+
+- Agentic AI systems on AWS Bedrock (Strands SDK, FastMCP, MCP servers)
+- Getting my agentic development workflow dialed in
+- [pcoroneos.com](https://www.p
