@@ -10,4 +10,4 @@ My background runs from semiconductor test engineering to front-end dev to platf
 
 - Agentic AI systems on AWS Bedrock (Strands SDK, FastMCP, MCP servers)
 - Getting my agentic development workflow dialed in
-- [pcoroneos.com](https://www.p
+- [My personal blog and portfolio](pcoroneos.com)
